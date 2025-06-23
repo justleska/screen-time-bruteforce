@@ -1,6 +1,6 @@
 # screen-time-bruteforce
 
-This is not a vulnerability. This is a bug that can be exploited to bypasss screen time by resetting the iPhone.
+Even though I refer to this as a vulnerability, this is not a vulnerability. This is a bug that can be exploited to bypasss screen time by resetting the iPhone.
 
 The symbol "[-]" represents data that has been redacted for this repo.
 
