@@ -50,8 +50,9 @@ Write a Python script that generates every possible 4-digit passcode combination
 for i in range(10000):
     combination = f"{i:04}"
     print(f"STRING {combination}")
-    print("DELAY 100")</code>Save the output to a .txt file.
+    print("DELAY 100")
 ```
+Save the output to a .txt file.
 
 2e. **Generated script explanation:**
 
