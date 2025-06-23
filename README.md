@@ -85,7 +85,7 @@ Thanks again for reporting this to us. Features like Screen Time are designed to
 In addition, please remember physical security remains an important part of protecting the data on your iOS and iPadOS device.
 
 [report closed]
-[from what i've seen, they have fixed the bug without even giving me credits for finding it :/]
+[I couldn't verify if that bug has been fixed]
 
 ---
 
